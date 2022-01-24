@@ -28,7 +28,7 @@ Atualmente focado no desenvolvimento de Games, porém tenho interesse em me torn
 
  ## ⚙️ &nbsp;Status GitHub
 
-<div>
+<div align="center">
   <a href="https://github.com/PedrooMouraao">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedrooMouraao&show_icons=true&title_color=fff&icon_color=%230077B5&text_color=ffffff&bg_color=000000"/></a>
 </div>
